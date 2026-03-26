@@ -1,4 +1,4 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/018/753/785/non_2x/devops-agile-development-and-optimisation-concept-on-virtual-screen-software-engineering-software-development-practices-methodology-wireframe-hand-touching-digital-interface-illustration-vector.jpg)](https://github.com/adharsh277)
+[![MasterHead](https://static.vecteezy.com/system/resources/previews/018/753/785/non_2x/devops-agile-development-and-optimisation-concept-on-virtual-screen-software-engineering-software-development-practices-methodology-wireframe-hand-touching-digital-interface-illustration-vector.jpg)](https://github.com/ahlbert)
 <h1> About </h1>
 
 <p>
@@ -12,7 +12,7 @@ Join me as I embrace challenges, innovate, and work towards a future shaped by t
 <div align="center">
 🌐 Socials
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_A1b3rtM)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/A1b3rtM)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/albertmitini)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ahlbert)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/c/internationalbuff)
