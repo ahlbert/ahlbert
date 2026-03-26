@@ -3,7 +3,7 @@
 
 <p>
 
-Hey there! I am Adharsh Unnikrishnan, a Computer Science undergrad with a strong passion for technology and innovation. 👨‍💻  
+Hey there! I am AlbertMitini-Sadigben, a professional with a strong passion for technology and innovation. 👨‍💻  
 I am fascinated by the intersection of cloud computing, DevOps, AI/ML, and BlockChain, and I am on an exciting journey to make a meaningful impact in the tech world.  
 Driven by curiosity and the desire to explore the limitless potential of emerging technologies, I actively contribute to open-source projects and enjoy collaborating with like-minded developers.  
 As I grow my skills and gain hands-on experience, I aim to craft solutions that push the boundaries of technology, while building valuable connections within the global tech community.  
@@ -12,9 +12,9 @@ Join me as I embrace challenges, innovate, and work towards a future shaped by t
 <div align="center">
 🌐 Socials
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itsadharsh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adharsh.u)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadhii.x.af)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_A1b3rtM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/albertmitini)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ahlbert)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/c/internationalbuff)
 </div>
 
@@ -49,13 +49,13 @@ Join me as I embrace challenges, innovate, and work towards a future shaped by t
 ![Prometheus](https://img.shields.io/badge/prometheus-%23e6522c.svg?style=for-the-badge&logo=prometheus&logoColor=white) 
 ![Grafana](https://img.shields.io/badge/grafana-%23f46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
-[![Adharsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adharsh277&theme=react-dark&hide_border=true)](https://github.com/adharsh277)
+[![Albert's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adharsh277&theme=react-dark&hide_border=true)](https://github.com/ahlbert)
 
 
 <!--
 ## 🏆 GitHub Achievements & Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=adharsh277&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=ahlbert&theme=onedark)
 
 <div align="center">
 
