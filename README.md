@@ -4,12 +4,17 @@
 <p>
 
 Hey there! I am Albert Mitini-Sadigben,a professional with a strong passion for technology and innovation. 👨‍💻  
+
 I am fascinated by the intersection of cloud computing, DevOps, AI/ML, and BlockChain, and I am on an exciting journey to make a meaningful impact in the tech world.  
+
 Driven by curiosity and the desire to explore the limitless potential of emerging technologies, I actively contribute to open-source projects and enjoy collaborating with like-minded developers.  
+
 As I grow my skills and gain hands-on experience, I aim to craft solutions that push the boundaries of technology, while building valuable connections within the global tech community.  
+
 Join me as I embrace challenges, innovate, and work towards a future shaped by technology and creativity.
 </p>
 <div align="center">
+
 🌐 Socials
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/A1b3rtM)
